@@ -165,11 +165,13 @@ const developer = {
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedamineelhadani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedamineelhadani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamineelhadani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedamineelhadani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 </div>
+
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=mohamedamineelhadani&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" height="170" />
@@ -180,7 +182,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedamineelhadani&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=mohamedamineelhadani&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
