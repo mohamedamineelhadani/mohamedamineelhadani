@@ -1,203 +1,114 @@
-<!-- Header -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Full-Stack%20Web%20Developer&fontSize=40&fontColor=fff&fontAlignY=38&desc=MERN%20%E2%80%A2%20Laravel%20%E2%80%A2%20Modern%20Web%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" />
-</div>
+<h1 align="center">Hi 👋, I'm Mohamed Amine El Hadani</h1>
+<h3 align="center">Full-Stack Developer | MERN & Laravel Specialist | Clean Code Advocate</h3>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Full-Stack+Applications+%F0%9F%9A%80;MERN+Stack+%7C+Laravel+%7C+REST+APIs;Secure+%7C+Clean+%7C+Production-Ready+Code;From+Figma+Wireframe+to+Live+Deployment+%F0%9F%8C%90" alt="Typing SVG" />
+<p align="center">
+  <a href="[Link to your portfolio]"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+  <a href="[Link to your LinkedIn]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[Link to your GitHub]"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="[Link to your email]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Web Developer** focused on building modern, scalable, and secure web applications. I thrive on the entire development lifecycle, from brainstorming a beautiful UI in Figma to deploying a robust, high-traffic backend.
+
+*   🔭 I’m currently working on **scalable web apps using the MERN stack & Laravel.**
+*   🌱 I’m continuously exploring **advanced system design & cloud architecture.**
+*   💬 Ask me about **MERN, Laravel, RESTful APIs, or Web Security (OWASP).**
+*   ⚡ Fun fact: I love solving complex problems and turning ideas into reality with clean, maintainable code.
+
+---
+
+### 🛠️ My Tech Stack & Tools
+
+#### 🎨 Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### ⚙️ Backend Development
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+#### 🗄️ Databases & Data Modeling
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🧪 Testing & Quality Assurance
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+#### 🎯 Project Management & Design
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📚 Core Competencies & Principles
+
+*   **Architecture & Patterns:** `SOLID`, `OOP`, `MVC`, `DAO`, `RESTful APIs`
+*   **Security:** `Web Security Best Practices`, `OWASP Top 10`, `Secure Coding`, `Secure Authentication (JWT)`
+*   **Methodologies:** `Agile (Scrum)`, `Kanban`
+*   **Soft Skills:** `Problem-Solving`, `Effective Communication`, `Continuous Learning`, `Ownership`, `Team Collaboration`
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Your GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Featured Project: [Project Name]
+*(Replace this with a brief description and link to one of your best projects)*
+
+A brief, impactful description of your flagship project. What problem did it solve? What was your key contribution?
+
+*   **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS
+*   **Key Feature:** Implemented secure JWT authentication and a high-performance RESTful API.
+*   **Outcome:** [Mention a result, e.g., Reduced page load time by 20%].
+
+<p align="center">
+  <a href="[Link to Project]">
+    <img src="https://via.placeholder.com/600x300/1a1b27/ffffff?text=Project+Screenshot+or+Demo+GIF" alt="Project Screenshot" width="80%" style="border-radius: 10px; border: 2px solid #6d28d9;"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&label=FOLLOWERS" />
-</div>
-
-<br/>
-
----
-
-## 👨‍💻 About Me
-
-```typescript
-const developer = {
-  role       : "Full-Stack Web Developer",
-  stacks     : ["MERN", "Laravel", "PHP", "Python"],
-  focus      : ["Scalable APIs", "Clean Architecture", "Secure Systems"],
-  philosophy : "Write code that works today, scales tomorrow, reads forever.",
-  learning   : ["Microservices", "Advanced DevOps"],
-  openTo     : "Collaborations · Open Source · Freelance 🤝"
-};
-```
-
----
-
-## 🧰 Tech Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-> ⚡ Crafting responsive, high-speed UIs with pixel-perfect attention to detail and smooth user experience.
-
----
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-> 🔒 Building secure, high-traffic systems with clean architecture, RESTful APIs, and robust multi-method authentication.
-
----
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-</p>
-
-> 📐 Proficient in relational & NoSQL database design, data modeling, and query optimization.
-
----
-
-### 🏗️ Architecture & Patterns
-
-<p>
-  <img src="https://img.shields.io/badge/SOLID-6D28D9?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-8B5CF6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAO-9D4EDD?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-A78BFA?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-### 🧪 Testing & Code Quality
+### 📫 Let's Connect!
 
-<p>
-  <img src="https://img.shields.io/badge/PHPUnit-6C3483?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-</p>
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-> ✅ Committed to clean code, high test coverage, and zero-smell codebases.
-
----
-
-### 🔐 Security
-
-<p>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure_Auth_(JWT)-DC2626?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Security_Best_Practices-B91C1C?style=for-the-badge&logoColor=white" />
-</p>
-
-> 🛡️ Security-first development: OWASP compliance, secure authentication flows, and vulnerability prevention.
-
----
-
-### 🚀 DevOps & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 📋 Agile & Project Management
-
-<p>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
-</p>
-
----
-
-### 🎨 Design
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Principles-FF61F6?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-## 💡 Soft Skills
-
-| &nbsp; | Skill | What it means |
-|:---:|---|---|
-| 🔍 | **Problem-Solving** | Break down complex challenges into clean, elegant solutions |
-| 🤝 | **Agile Collaboration** | Fast feedback loops, transparent communication, team-first mindset |
-| 📈 | **Continuous Learning** | Always evolving with the latest tech trends and best practices |
-| 🗣️ | **Effective Communication** | Technical ideas explained clearly to any audience |
-| 🎯 | **Ownership** | End-to-end responsibility — from idea to production |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" height="170" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
-</div>
+*   **Portfolio:** [your-portfolio.com]([Link to your portfolio])
+*   **LinkedIn:** [Your LinkedIn Profile]([Link to your LinkedIn])
+*   **Email:** [your.email@example.com](mailto:your.email@example.com)
